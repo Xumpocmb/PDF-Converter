@@ -63,3 +63,4 @@ venv.bak/
 .env
 *.mp3
 *.pdf
+*.txt
